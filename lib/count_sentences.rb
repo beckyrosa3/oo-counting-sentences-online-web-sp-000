@@ -18,7 +18,7 @@ class String
     self.split(".")
     self.split("?")
     self.split("!")
-  self.each do |n| n.count
+  
   end
 end
-end
+

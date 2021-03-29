@@ -21,3 +21,4 @@ class String
   self.each do |n| n.count
   end
 end
+end

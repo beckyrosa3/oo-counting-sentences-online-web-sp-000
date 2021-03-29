@@ -18,7 +18,6 @@ class String
     self.split(".")
     self.split("?")
     self.split("!")
-  
+
   end
 end
-
